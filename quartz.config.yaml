@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: lucasvault.github.io/notes
+  baseUrl: lucaignatescu.github.io/notes
   ignorePatterns:
     - private
     - templates
